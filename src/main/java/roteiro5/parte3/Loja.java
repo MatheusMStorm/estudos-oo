@@ -1,7 +1,5 @@
 package roteiro5.parte3;
 
-import roteiro5.parte2.*;
-
 public class Loja {
     
     private String nomeFantasia;

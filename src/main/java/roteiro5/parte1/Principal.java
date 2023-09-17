@@ -1,11 +1,8 @@
 package roteiro5.parte1;
 
-import java.util.Scanner;
-
 public class Principal {
     
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
         
         Loja loja01 = new Loja("MM Construções", "MM Construções LTDA", "4509884000149");
         Loja loja02 = new Loja("Luís Castro Financeira", "", "3929885000257");
