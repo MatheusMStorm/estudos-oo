@@ -20,5 +20,6 @@ Este repositório é reservado às atividades referentes aos roteiros das aulas 
 | Roteiro 4 | [![CLIQUE AQUI](https://img.shields.io/badge/CLIQUE%20AQUI-008000)](https://docs.google.com/document/d/1z306NIZZ4cXM3YQOtiy2Ib7ortJC86RN/edit?usp=sharing&ouid=118144196719572213428&rtpof=true&sd=true)
 | Roteiro 5 | [![CLIQUE AQUI](https://img.shields.io/badge/CLIQUE%20AQUI-008000)](https://drive.google.com/file/d/1MFhVZ-rhhArmNBxeOELs_QPIHMvfuv4X/view?usp=sharing)
 | Roteiro 6 | [![CLIQUE AQUI](https://img.shields.io/badge/CLIQUE%20AQUI-008000)](https://drive.google.com/file/d/1wetW3n-ecg-uWwiRG8BicJp864OOvX0d/view?usp=sharing)
+| Roteiro 7 | [![CLIQUE AQUI](https://img.shields.io/badge/CLIQUE%20AQUI-008000)](https://docs.google.com/document/d/1QovNYAZd_moadLnEMLBaA5wXs2NYbIa_/edit?usp=sharing&ouid=118144196719572213428&rtpof=true&sd=true)
 
 ![UNIFACS](https://aic.unifacs.br/unifacs.jpg)
